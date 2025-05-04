@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0797-rabbits-in-forest](https://github.com/skylurJEON/LeetCode/tree/master/0797-rabbits-in-forest) |
 | [1049-minimum-domino-rotations-for-equal-row](https://github.com/skylurJEON/LeetCode/tree/master/1049-minimum-domino-rotations-for-equal-row) |
+| [1227-number-of-equivalent-domino-pairs](https://github.com/skylurJEON/LeetCode/tree/master/1227-number-of-equivalent-domino-pairs) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/skylurJEON/LeetCode/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/skylurJEON/LeetCode/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 | [2249-count-the-hidden-sequences](https://github.com/skylurJEON/LeetCode/tree/master/2249-count-the-hidden-sequences) |
@@ -37,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0797-rabbits-in-forest](https://github.com/skylurJEON/LeetCode/tree/master/0797-rabbits-in-forest) |
+| [1227-number-of-equivalent-domino-pairs](https://github.com/skylurJEON/LeetCode/tree/master/1227-number-of-equivalent-domino-pairs) |
 | [1500-count-largest-group](https://github.com/skylurJEON/LeetCode/tree/master/1500-count-largest-group) |
 | [2856-count-complete-subarrays-in-an-array](https://github.com/skylurJEON/LeetCode/tree/master/2856-count-complete-subarrays-in-an-array) |
 | [2915-count-of-interesting-subarrays](https://github.com/skylurJEON/LeetCode/tree/master/2915-count-of-interesting-subarrays) |
@@ -93,4 +95,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0868-push-dominoes](https://github.com/skylurJEON/LeetCode/tree/master/0868-push-dominoes) |
+## Counting
+|  |
+| ------- |
+| [1227-number-of-equivalent-domino-pairs](https://github.com/skylurJEON/LeetCode/tree/master/1227-number-of-equivalent-domino-pairs) |
 <!---LeetCode Topics End-->
